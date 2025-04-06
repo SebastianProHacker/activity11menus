@@ -5,7 +5,6 @@ Sistema de navegación con herencia de plantillas Blade que incluye 4 vistas int
 - **Vista Principal** con tarjetas de acceso
 - **3 Secciones** (Inicio, Fotos, Contacto)
 - Resaltado automático de opción activa
-- Diseño responsive con Bootstrap 5
 - Footer persistente en todas las vistas
 - Sistema de rutas nombradas en Laravel
 
